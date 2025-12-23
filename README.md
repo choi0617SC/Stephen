@@ -1,10 +1,9 @@
 # Building AI course – small AI project
 
-This repository contains a small AI project created for the **Building AI** course.  
-The main goal is to practice basic machine learning concepts and Python programming.
+## Summary
+A small AI project for the Building AI course, used to practice basic machine learning and Python.
 
 ## Contents
-
 - Simple examples of:
   - Data loading and preprocessing
   - Basic models (e.g. linear regression, k‑nearest neighbours, logistic regression)
@@ -12,34 +11,8 @@ The main goal is to practice basic machine learning concepts and Python programm
 - Exercise notebooks and scripts used in the course
 
 ## Requirements
-
 - Python 3.x
-- Common libraries such as:
-  - numpy
-  - pandas
-  - scikit-learn
-  - matplotlib/jupyter (if notebooks are used)
-
-Install dependencies (example):
-
-```
-pip install -r requirements.txt
-```
+- numpy, pandas, scikit-learn, matplotlib, jupyter
 
 ## How to run
-
-```
-# Example
 python example_model.py
-```
-
-or open the Jupyter notebooks:
-
-```
-jupyter notebook
-```
-
-## Purpose
-
-This project is purely educational and is used to experiment with AI techniques introduced in the Building AI course.
-```
